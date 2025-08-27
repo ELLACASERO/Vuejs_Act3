@@ -1,5 +1,5 @@
 # vuejscrud
-
+![alt text](<Screenshot 2025-08-27 135909.png>)
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
